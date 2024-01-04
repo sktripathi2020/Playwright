@@ -1,0 +1,9 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(è»Ž£
+c
+java:S2095"HUse try-with-resources or close this "Playwright" in a "finally" clause.(Ã’“Íøÿÿÿÿ
+h
+java:S2095/"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ô ²…ùÿÿÿÿ
+c	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¥èÓ
+Z
+java:S21474"DCombine this catch with the one at line 50, which has the same body.(ï­£Ä
