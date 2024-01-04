@@ -3,15 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bavaria.webshop.Auth.LoginTest2">
+      <class name="tests.HomePageTest">
         <methods>
-          <include name="loggedInPageTitleTest"/>
-          <include name="UserProfileVisiblTest"/>
-          <include name="appLoginTest"/>
-          <include name="setUp"/>
-          <include name="closeConnection"/>
+          <include name="setup"/>
+          <include name="homeLogoTest"/>
+          <include name="tearDown"/>
+          <include name="homePageTitleTest"/>
         </methods>
-      </class> <!-- com.bavaria.webshop.Auth.LoginTest2 -->
+      </class> <!-- tests.HomePageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
